@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1431451298 source:c:\users\aya\desktop\phase 3\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
